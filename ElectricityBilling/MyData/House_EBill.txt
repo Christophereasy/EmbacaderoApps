@@ -1,0 +1,8 @@
+PowerRate[W]	Usage/Day[Min]	Appliance Description
+============	==============	=====================
+1800	150	Oven
+110	120	HiFi
+320	180	PC/Laptop
+230	240	Lights
+2000	30	Kettle
+900	20	Microwave

@@ -1,0 +1,11 @@
+[Wh/Day]|[kWh/Month]|[Cost]-[ZAR]|PowerRate[W]|Usage/Day[Min]|Appliance Description
+========|===========|============|============|==============|=====================
+4500Wh|135.0kWh|R384,75|1800|150|Oven
+220Wh|6.6kWh|R18,81|110|120|HiFi
+960Wh|28.8kWh|R82,08|320|180|PC/Laptop
+920Wh|27.6kWh|R78,66|230|240|Lights
+1000Wh|30.0kWh|R85,50|2000|30|Kettle
+300Wh|9.0kWh|R25,65|900|20|Microwave
+5400Wh|162.0kWh|R461,70|2400|135|Heater
+
+|TOTAL|R1 133,00
